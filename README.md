@@ -1,4 +1,4 @@
 # hello-world
 my first repository on GitHub
 =======
-I love to geek out and parrty
+I love to geek out and party!!
